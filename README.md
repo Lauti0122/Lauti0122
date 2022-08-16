@@ -46,10 +46,9 @@ Algunas funcionalidades que contiene la página:
 
 ## Para contactarme 📞​
 
-<p align="center">
-<a href="https://www.linkedin.com/in/lautarobua-full-stack-developer/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" height="30" width="40" /></a>
-
-<a href="mailto:lautarobua.10@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="40" /></a>
+<p align="left">
+<a href="https://www.linkedin.com/in/lautarobua-full-stack-developer/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" height="50" width="50" /></a>
+<a href="mailto:lautarobua.10@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="50" width="50" /></a>
 </p>
 
 
