@@ -26,7 +26,7 @@ Estoy convencido de que la gente que avanza es la gente que se esfuerza. 💪​
 
 # Mis Proyectos​ 💼​
 
-<a href="https://salva-mi-huella.vercel.app/" target="_blank" rel="noreferrer"><h3>Salva Mi Huella</h3></a>
+<a href="https://salva-mi-huella.vercel.app/" target="_blank" rel="noreferrer"><h1>Salva Mi Huella</h1></a>
 <p> "SALVA MI HUELLA" es una aplicación web que tiene como objetivo principal vencer la superpoblación, y abandono que sufren millones de animales en nuestro país promoviendo la adopción de animales y consiguiendoles un hogar para que se encargan de su cuidado. Se utilizó el lenguaje Javascript junto con React para el Front End y Redux como gestión de estado. El Back End se desarrolló en Node.JS utilizando Express y por último como base de datos PostgresSQL. Como base para la organización del grupo se utilizó la metodología SCRUM y la tecnología Trello.
 
 Algunas funcionalidades que contiene la página:
@@ -35,7 +35,7 @@ Algunas funcionalidades que contiene la página:
 - Google Maps.
 </p>
 
-<a href="https://github.com/Lauti0122/Video_Games_PI" target="_blank" rel="noreferrer"><h3>Videogames APP</h3></a>
+<a href="https://github.com/Lauti0122/Video_Games_PI" target="_blank" rel="noreferrer"><h1>Videogames APP</h1></a>
 <p> "VIDEOGAMES" es una single application web con fines educativos realizada como proyecto individual en el bootcamp de Henry. Se montó la app en Javascript junto con React para el Front End y Redux como gestión de estado. El Back End se desarrolló en Node.JS utilizando Express, consumiendo una API externa con sus respectivos end-points para traer información sobre los videojuegos, y por último como base de datos PostgresSQL para guardar estos datos.
 
 Algunas funcionalidades que contiene la página:
