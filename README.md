@@ -8,17 +8,16 @@ Hola red!, mi nombre es Lautaro, soy un desarrollador web full stack con prefere
 Estoy convencido de que la gente que avanza es la gente que se esfuerza. 💪​
 
 ## Habilidades Técnicas ​💼​
+
 <div>
 <img height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/1260/1260667.png"/>
-
 <p>ReactJS</p>
-</div>
 
-<div>
 <img height="50" width="50" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redux_original_logo_icon_146365.png"/>
-
 <p>Redux</p>
 </div>
+
+
 
 
 
