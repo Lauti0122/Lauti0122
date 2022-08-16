@@ -10,7 +10,8 @@ Estoy convencido de que la gente que avanza es la gente que se esfuerza. 💪​
 ## Habilidades Técnicas ​💼​
 <div>
 <img height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/1260/1260667.png"/>
-ReactJS
+
+<p>ReactJS</p>
 </div>
 
 
