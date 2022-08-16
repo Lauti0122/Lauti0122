@@ -24,15 +24,11 @@ Estoy convencido de que la gente que avanza es la gente que se esfuerza. 💪​
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></code>
 </p>
 
-# Mis Proyectos​ 💼​
+# Mis Proyectos​
 Hola, esto es una prueba
 
-# Para contactarme 📞​
 
-<p align="left">
-<a href="https://www.linkedin.com/in/lautarobua-full-stack-developer/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" height="50" width="50" /></a>
-<a href="mailto:lautarobua.10@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="50" width="50" /></a>
-</p>
+
 
 
 
