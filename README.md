@@ -27,7 +27,7 @@ Estoy convencido de que la gente que avanza es la gente que se esfuerza. 💪​
 # Mis Proyectos​ 💼​
 <a href="https://salva-mi-huella.vercel.app/" target="_blank"><h2>Salva Mi Huella</h2></a>
 
-<p font-size="10rem">
+<p style= color:red >
 "SALVA MI HUELLA" es una aplicación web que tiene como objetivo principal vencer la superpoblación, y abandono que sufren millones de animales en nuestro país promoviendo la adopción de animales y consiguiendoles un hogar para que se encargan de su cuidado. Se utilizó el lenguaje Javascript junto con React para el Front End y Redux como gestión de estado. El Back End se desarrolló en Node.JS utilizando Express y por último como base de datos PostgresSQL. Como base para la organización del grupo se utilizó la metodología SCRUM y la tecnología Trello.
 
 Algunas funcionalidades que contiene la página:
