@@ -24,7 +24,7 @@ Estoy convencido de que la gente que avanza es la gente que se esfuerza. 💪​
   <img width="15%" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"><
 </p>
 
-## Mis Proyectos
+## Mis Proyectos 💼​
 
 <a href="https://salva-mi-huella.vercel.app/" target="_blank"><h2>Salva Mi Huella</h2></a>
 
