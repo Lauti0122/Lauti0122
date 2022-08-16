@@ -14,6 +14,12 @@ Estoy convencido de que la gente que avanza es la gente que se esfuerza. 💪​
 <p>ReactJS</p>
 </div>
 
+<div>
+<img height="50" width="50" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redux_original_logo_icon_146365.png"/>
+
+<p>Redux</p>
+</div>
+
 
 
 
