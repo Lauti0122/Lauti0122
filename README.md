@@ -25,15 +25,15 @@ Estoy convencido de que la gente que avanza es la gente que se esfuerza. 💪​
 </p>
 
 # Mis Proyectos​ 💼​
-Hola
 <a href="https://salva-mi-huella.vercel.app/" target="_blank" rel="noreferrer"><h2>Salva Mi Huella</h2></a>
 
- "SALVA MI HUELLA" es una aplicación web que tiene como objetivo principal vencer la superpoblación, y abandono que sufren millones de animales en nuestro país promoviendo la adopción de animales y consiguiendoles un hogar para que se encargan de su cuidado. Se utilizó el lenguaje Javascript junto con React para el Front End y Redux como gestión de estado. El Back End se desarrolló en Node.JS utilizando Express y por último como base de datos PostgresSQL. Como base para la organización del grupo se utilizó la metodología SCRUM y la tecnología Trello.
+ <div>"SALVA MI HUELLA" es una aplicación web que tiene como objetivo principal vencer la superpoblación, y abandono que sufren millones de animales en nuestro país promoviendo la adopción de animales y consiguiendoles un hogar para que se encargan de su cuidado. Se utilizó el lenguaje Javascript junto con React para el Front End y Redux como gestión de estado. El Back End se desarrolló en Node.JS utilizando Express y por último como base de datos PostgresSQL. Como base para la organización del grupo se utilizó la metodología SCRUM y la tecnología Trello.
 
 Algunas funcionalidades que contiene la página:
 - Integración de PayPal para hacer donaciones a refugios directamente desde la app.
 - Integración de Auth0 para implementaciones de inicio de sesión y roles para usuarios, refugios y perfiles de administradores.
 - Google Maps.
+</div>
 
 
 <a href="https://github.com/Lauti0122/Video_Games_PI" target="_blank" rel="noreferrer"><h2>Videogames APP</h2></a>
