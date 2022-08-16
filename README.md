@@ -8,7 +8,7 @@ Hola red!, mi nombre es Lautaro, soy un desarrollador web full stack con prefere
 Estoy convencido de que la gente que avanza es la gente que se esfuerza. 💪​
 
 # Habilidades Técnicas ​🛠️​
-
+<br>
 <p>
   <img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg">
   <img width="15%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"><
@@ -23,7 +23,6 @@ Estoy convencido de que la gente que avanza es la gente que se esfuerza. 💪​
   <img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"><
   <img width="15%" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"><
 </p>
-<br>
 <br>
 
 # Mis Proyectos 💼​
