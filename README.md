@@ -2,12 +2,12 @@
   <img height="200" src="./assets/yo.PNG" />
 </p>
 
-# Sobre Mi...🙋‍♂️​
+# About me...🙋‍♂️​
 Hola red!, mi nombre es Lautaro, soy un desarrollador web full stack con preferencia en el back-end. Me considero una persona dedicada, proactiva y responsable, a quien le encanta trabajar en equipo, plantearse nuevos desafios y aprender día a día.
 
 Estoy convencido de que la gente que avanza es la gente que se esfuerza. 💪​
 
-# Habilidades Técnicas ​🛠️​
+# TECH SKILLS ​🛠️​
 <br>
 <p>
   <img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg">
@@ -25,7 +25,7 @@ Estoy convencido de que la gente que avanza es la gente que se esfuerza. 💪​
 </p>
 <br>
 
-# Mis Proyectos 💼​
+# My Projects 💼​
 
 <a href="https://salva-mi-huella.vercel.app/" target="_blank"><h2>Salva Mi Huella</h2></a>
 
